@@ -18,4 +18,6 @@ const ia=function(){
     console.log("dfgdf");
 }
 ia();
+console.log(obj);
+
 
